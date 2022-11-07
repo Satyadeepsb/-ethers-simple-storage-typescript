@@ -1,1 +1,1 @@
-# -ethers-simple-storage-typescript
+# ethers-simple-storage-typescript
